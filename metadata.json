@@ -1,0 +1,5 @@
+{
+  "name": "Meme Character & Website Generator",
+  "description": "Generate unique meme characters from a prompt and a reference image using Gemini. Then, build and customize a personal website for your new meme with various layouts, colors, and fonts.",
+  "requestFramePermissions": []
+}
